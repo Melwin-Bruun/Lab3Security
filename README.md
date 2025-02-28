@@ -2,7 +2,8 @@
 
 ## About
 
-Lab3Security is an ASP.NET Core web application that provides security-related functionality, including authentication and role management. It utilizes ASP.NET Core Identity for user authentication and authorization.
+Lab3Security is a school project and an ASP.NET Core web application that provides security-related functionality, including authentication and role management. It utilizes ASP.NET Core Identity for user authentication and authorization.
+
 
 ## Features
 
